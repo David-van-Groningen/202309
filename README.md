@@ -9,3 +9,7 @@ Ik heb deze opdracht alleen gedaan.
 ## Technieken
 
 - HTML, diverse tags en images
+
+## Datum
+
+Dit was een van de eerste opdrachten van het begin van het schooljaar.
